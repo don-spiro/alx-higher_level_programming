@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 def add(a, b):
-    if x = a + b:
-        print(x)
+    if x == a + b:
+        print(x, end="")
     return abs(x)
