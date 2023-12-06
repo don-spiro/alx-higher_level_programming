@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-def multiple_returns(sentence):
-    if sentence = "[]":
-        return("{0}")
-        return("none")
+def multiple_returns(sentence)
+    if sentence == [:]:
+        turple = (none)
+    else:
+        turple = (len(sentence), sentence[:1])
+    return(turple)
