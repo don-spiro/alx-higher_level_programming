@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-def multiple_returns(sentence)
-    if sentence == [:]:
-        turple = (none)
+def multiple_returns(sentence):
+    if len(sentence) == 0:
+        my_tuple = (0, None)
     else:
-        turple = (len(sentence), sentence[:1])
-    return(turple)
+        my_tuple = (len(sentence), sentence[:1])
+    return(my_tuple)
